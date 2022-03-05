@@ -8,7 +8,7 @@
 
 :seedling: I'm currently working on A Solid-Based Social Semantic Web Application.
 
-:dizzy: I'm using C# at work but learning Python at nights.
+:dizzy: I'm using C# at work but learning Python at night.
 
 :hearts: I'm a mother of two :dog:s and a :cat:.  
 
