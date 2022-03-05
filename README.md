@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello mate 👋
 
-<!--
-**iremacildi/iremacildi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I'm a computer engineer.  
 
-Here are some ideas to get you started:
+:woman_student: I'm a software eng Msc student at Boğaziçi University.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:woman_technologist: I'm working as a backend developer in e-commerce domain.  
+
+:seedling: I'm currently working on A Solid-Based Social Semantic Web Application.
+
+:dizzy: I'm using C# at work but learning Python at nights.
+
+:hearts: I'm a mother of two :dog:s and a :cat:.  
+
+:speech_balloon: My motivation:
+> Whatever you are, be a good one. - Abraham Lincoln
