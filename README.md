@@ -13,6 +13,6 @@
 :hearts: I'm a mother of two :dog:s and a :cat:.  
 
 :speech_balloon: My motivation:
-> Whatever you are, be a good one. - Abraham Lincoln  
+> "Whatever you are, be a good one."  
 
 :mailbox: You can contact me on [Twitter](https://twitter.com/iremacildi) or [LinkedIn](https://www.linkedin.com/in/iremacildi/).
