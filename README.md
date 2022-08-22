@@ -2,13 +2,14 @@
 
 :computer: I'm a computer engineer.  
 
-:woman_student: I'm a software eng Msc student at Boğaziçi University.  
+:scroll: I have a MSc degree from Boğaziçi University, Software Engineering,   
+and a BSc degree from Sakarya University, Computer Engineering.
 
-:woman_technologist: I'm working as a backend developer in e-commerce domain.  
+:woman_technologist: I'm working as a backend developer in the e-commerce domain.  
 
-:seedling: I'm currently working on A Solid-Based Social Semantic Web Application.
+:seedling: I'm currently practicing cases in the System Design Interview books of Alex Xu.
 
-:dizzy: I'm using C# at work but learning Python at night.
+:dizzy: I'm using C# at work but coding with Python at night.
 
 :hearts: I'm a mother of two :dog:s and a :cat:.  
 
